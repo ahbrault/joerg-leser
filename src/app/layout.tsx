@@ -15,7 +15,7 @@ const baskerville = localFont({
             style: 'medium',
         },
         {
-            path: './fonts/Baskerville-Semibold.ttf',
+            path: './fonts/Baskerville-SemiBold.ttf',
             weight: '600',
             style: 'semibold',
         },
