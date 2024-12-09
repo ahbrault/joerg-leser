@@ -7,12 +7,13 @@
     --foreground: #171717;
     --gold: #CBA135;
     --red: #9F2539;
+    --font-baskerville: 'Baskerville';
 }
 
 body {
     color: var(--foreground);
     background: white;
-    font-family: Baskerville, Arial, Helvetica, sans-serif;
+    font-family: var(--font-baskerville), Arial, Helvetica, sans-serif;
 }
 
 .container {

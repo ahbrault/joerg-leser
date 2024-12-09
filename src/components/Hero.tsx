@@ -48,7 +48,7 @@ export default function Hero() {
                                 <h1 className="text-5xl font-baskerville text-black">
                                     Redefining Luxury Hospitality Experiences
                                 </h1>
-                                <p className="mt-8 text-pretty text-lg font-medium text-gray-500 sm:text-xl/8">
+                                <p className="mt-8 text-pretty text-lg text-gray-500 sm:text-xl/8">
                                     We develop comprehensive brand and marketing strategies for hospitality businesses,
                                     leveraging our extensive network to connect you with key partners and stakeholders,
                                     creating a distinctive identity, engaging the right audience, and delivering
