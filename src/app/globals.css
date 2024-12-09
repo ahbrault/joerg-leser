@@ -3,19 +3,49 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+    --cream: #FAF9F6;
+    --foreground: #171717;
+    --gold: #CBA135;
+    --red: #9F2539;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+    color: var(--foreground);
+    background: white;
+    font-family: Baskerville, Arial, Helvetica, sans-serif;
+}
+
+.container {
+    @apply mx-auto max-w-7xl px-6 lg:px-8;
+}
+
+h2 {
+    @apply text-3xl text-center mb-4 font-medium;
+}
+
+p {
+    @apply mt-4 text-xl;
+}
+
+button.btn-gold {
+    @apply text-center block border border-gold text-gold relative overflow-hidden bg-transparent transition-all duration-300 translate-x-0;
+}
+
+button.btn-gold:before,
+button.btn-gold:after {
+    content: "";
+    @apply absolute w-full h-full top-full left-0 bg-gold z-[-1] transition-all duration-300;
+}
+
+button.btn-gold:after {
+    @apply delay-200;
+}
+
+button.btn-gold:hover {
+    @apply text-white;
+}
+
+button.btn-gold:hover:before,
+button.btn-gold:hover:after {
+    @apply top-0;
 }
