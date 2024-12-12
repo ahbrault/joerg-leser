@@ -11,7 +11,7 @@ const Header: React.FC = () => {
     const navLinks: NavLink[] = useMemo(()=> ([
         { name: 'Home', href: '#home' },
         { name: 'About', href: '#about' },
-        { name: 'Values', href: '#values' },
+        { name: 'Expertise', href: '#expertise' },
         { name: 'Contact', href: '#contact' },
     ]), []);
 

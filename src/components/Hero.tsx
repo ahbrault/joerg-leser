@@ -41,19 +41,15 @@ export default function Hero() {
 
                         <div className="relative px-6 pb-14 md:py-20 lg:px-8 lg:py-56 lg:pr-0">
                             <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
-                                <div className="relative text-gold text-xl mb-5">
-                                    Brand & Concept Development - Hospitality
-                                </div>
-                                <hr className="border-gold w-32 mb-6"/>
                                 <h1 className="text-5xl font-baskerville text-black">
-                                    Redefining Luxury Hospitality Experiences
+                                    Hospitality Brand & Concept Development
                                 </h1>
+                                <hr className="border-gold w-32 mt-5 mb-6"/>
                                 <p className="mt-8 text-pretty text-lg text-gray-500 sm:text-xl/8">
                                     We develop comprehensive brand and marketing strategies for hospitality businesses,
                                     leveraging our extensive network to connect you with key partners and stakeholders,
                                     creating a distinctive identity, engaging the right audience, and delivering
-                                    memorable guest
-                                    experiences that drive loyalty, growth, and long-term profitability.
+                                    memorable guest experiences that drive loyalty, growth, and long-term profitability.
                                 </p>
                                 <button className="px-6 btn-gold py-3 border font-medium text-lg mt-8">
                                     Contact Joerg
@@ -62,7 +58,7 @@ export default function Hero() {
                         </div>
                     </div>
                 </div>
-                <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
+                <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 hidden lg:block">
                     <Image
                         height={1080}
                         width={900}
