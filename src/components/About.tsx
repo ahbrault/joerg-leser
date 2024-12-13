@@ -4,7 +4,7 @@ export default function About() {
     return (
         <section className="w-full py-20 bg-cream" id="about">
             <div className="container">
-                <div className="max-w-4xl mx-auto">
+                <div className="max-w-5xl mx-auto">
                     <h2>Joerg Leser</h2>
                     <hr className="border-gold w-32 mb-10 mx-auto"/>
                     <p>
