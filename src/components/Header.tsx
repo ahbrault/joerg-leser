@@ -71,8 +71,8 @@ const Header: React.FC = () => {
 
     return (
         <header className='flex border-b bg-white min-h-[70px] tracking-wide z-50 w-full fixed top-0 left-0'>
-            <div className="container px-6 mx-auto pt-4">
-                <div className='flex items-center justify-between w-full max-w-5xl'>
+            <div className="container px-6 pt-4">
+                <div className='flex items-center mx-auto justify-between w-full max-w-5xl'>
                     {/* Logo */}
                     <Link
                         href={navLinks[0].href}
