@@ -1,0 +1,52 @@
+{
+  "header": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "expertise": "Expertise",
+    "contact": "Contact",
+    "language": "Langue",
+    "english": "EN",
+    "french": "FR"
+  },
+  "hero": {
+    "title": "Développement de Marque & Concept pour l'Hôtellerie",
+    "description": "Nous développons des stratégies complètes de marque et de marketing pour les entreprises hôtelières, en tirant parti de notre vaste réseau pour vous connecter avec des partenaires et des parties prenantes clés, créer une identité distinctive, engager le bon public et offrir des expériences mémorables aux clients qui favorisent la fidélité, la croissance et la rentabilité à long terme.",
+    "contactButton": "Contactez-nous"
+  },
+  "about": {
+    "title": "Joerg Leser",
+    "description": "Plus de 24 ans d'expérience internationale dans le secteur de l'hôtellerie de luxe y compris des rôles de direction chez Park Hyatt, Kempinski et Peninsula ont façonné mon approche pour créer des marques attrayantes, des concepts innovants et des initiatives de marketing stratégiques. Fort des insights acquis en naviguant sur les marchés du luxe mondiaux, ainsi que de la solide formation académique fournie par l'École Hôtelière de Lausanne, je guide désormais les entreprises hôtelières dans le développement d'identités distinctives, l'engagement des bons publics et la fourniture d'expériences exceptionnelles aux clients qui favorisent une fidélité durable, une croissance soutenue et une rentabilité à long terme."
+  },
+  "expertise": {
+    "title": "Expertise",
+    "description": "Nous offrons une gamme complète de services pour développer et renforcer votre marque dans l'industrie hôtelière de luxe.",
+    "categories": {
+      "brandAudit": "Audit de Marque",
+      "brandStrategy": "Stratégie de Marque",
+      "storytelling": "Narration",
+      "brandIdentity": "Identité de Marque",
+      "spatialDesign": "Design Spatial"
+    },
+    "descriptions": {
+      "brandAudit": "Évaluations complètes de la position et de la performance de votre marque sur le marché grâce à une recherche approfondie, une analyse concurrentielle et des évaluations des [[opportunités]] pour informer les décisions stratégiques.",
+      "brandStrategy": "Développement d'une stratégie de marque robuste qui définit votre [[vision]], vos [[valeurs]], votre [[positionnement]] et votre [[plan]], garantissant une présence forte et unique sur le marché de l'hôtellerie de luxe.",
+      "storytelling": "Création de récits captivants et d'une voix de marque cohérente pour engager émotionnellement votre public, soutenue par des thèmes éditoriaux bien définis pour une communication cohésive.",
+      "brandIdentity": "Création d'une identité visuelle distinctive et d'un design de supports, accompagnée de directives complètes de marque pour maintenir la cohérence sur toutes les plateformes et tous les supports.",
+      "spatialDesign": "Conception de plans spatiaux efficaces et esthétiques, de concepts hôteliers et de directives de design qui améliorent l'expérience des clients et s'alignent avec votre identité de marque."
+    }
+  },
+  "contact": {
+    "title": "Créer l'extraordinaire",
+    "address": "182, boulevard Haussmann\n75008 Paris",
+    "phone": "+33 6 24 64 64 89",
+    "email": "jl@joergleser.com",
+    "getInTouch": "Entrer en Contact"
+  },
+  "footer": {
+    "copyright": "© Copyright Joerg Leser {{year}}. Tous droits réservés"
+  },
+  "metadata": {
+    "title": "Joerg Leser - Redéfinir les Expériences Hôtelières de Luxe",
+    "description": "Nous développons des stratégies complètes de marque et de marketing pour les entreprises hôtelières, en tirant parti de notre vaste réseau pour vous connecter avec des partenaires et des parties prenantes clés, créer une identité distinctive, engager le bon public et offrir des expériences mémorables aux clients qui favorisent la fidélité, la croissance et la rentabilité à long terme."
+  }
+}
