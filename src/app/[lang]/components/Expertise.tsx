@@ -87,11 +87,10 @@ const Expertise: React.FC<ExpertiseProps> = ({ dict }) => {
     <section className="w-full bg-white py-24" id="expertise">
       <div className="container mx-auto px-6">
         <div className="mx-auto max-w-5xl text-center">
-          <h2>Expertise</h2>
+          <h2>{dict.title}</h2>
           <hr className="mx-auto mb-8 w-16 border-gold" />
           <p className="mb-16">
-            We offer a full range of services to develop and strengthen your brand in the luxury
-            hospitality industry.
+            {dict.description}
           </p>
           <div className="grid gap-12 md:space-y-8">
             {data.map((expertise, index) => (
